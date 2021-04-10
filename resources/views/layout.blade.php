@@ -156,7 +156,7 @@
 
 </main>
 <!--main area-->
- <h2>Hellooooooooooooaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h2>
+
 <!--footer area-->
 <footer id="footer">
     @include('include.footer')
